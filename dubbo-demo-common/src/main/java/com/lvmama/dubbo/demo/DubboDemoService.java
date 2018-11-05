@@ -1,5 +1,5 @@
 package com.lvmama.dubbo.demo;
 
 public interface DubboDemoService {
-    String sayHello(String name);
+    public String sayHello(String name);
 }
